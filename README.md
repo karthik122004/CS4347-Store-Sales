@@ -17,7 +17,7 @@ The following libraries are required to run this project:
 
 ## Installation and Usage
 1. **Clone the repository:**
-git clone [[your-repository-link]](https://github.com/karthik122004/CS4347-Store-Sales.git)
+git clone https://github.com/karthik122004/CS4347-Store-Sales.git
 
 2. **Install dependencies:**
 pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
